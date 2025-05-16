@@ -1,6 +1,6 @@
 ### Objetivo
 
-O objetivo deste desafio é realizar análises exploratórias em conjuntos de dados públicos disponíveis no BigQuery, responder a perguntas específicas ``perguntas_desafio.md`` sobre esses dados utilizando SQL e Python, e criar visualizações informativas e visualmente atraentes.
+O objetivo deste desafio é realizar análises exploratórias em conjuntos de dados públicos disponíveis no BigQuery, responder aS perguntas sobre esses dados utilizando SQL e Python, e criar visualizações informativas e visualmente atraentes.
 
 ### Acessando visualização 
 Para acessar a visualização das análises: [Visualização](https://app.powerbi.com/view?r=eyJrIjoiYzY1MjFjZDYtYTdmNC00OTUwLWEwNGEtZDZiZTAyMWVjYzMzIiwidCI6ImZhZDg1ZGFiLWVjODAtNGE3Yi05YmZmLTJlNDA3MzQ0YmZhNyJ9)
