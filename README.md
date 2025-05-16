@@ -1,6 +1,3 @@
-# Desafio Técnico - Cientista de Dados Júnior
-
-Thiago Costa Sá 
 ### Objetivo
 
 O objetivo deste desafio é realizar análises exploratórias em conjuntos de dados públicos disponíveis no BigQuery, responder a perguntas específicas ``perguntas_desafio.md`` sobre esses dados utilizando SQL e Python, e criar visualizações informativas e visualmente atraentes.
